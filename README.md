@@ -2,7 +2,8 @@
 ##
 <a href="https://www.linkedin.com/in/kengboon"><img src="https://img.shields.io/badge/linkedin-kengboon-%230B66C3?logo=linkedin"/></a> <a href="https://github.com/kengboon"><img src="https://img.shields.io/badge/github-kengboon-%2366707B?logo=github"/></a> <a href="https://www.kaggle.com/kengboon"><img src="https://img.shields.io/badge/kaggle-kengboon-%2320BEFF?logo=kaggle"/></a>
 
-- *Graduate student at [Universiti Sains Malaysia](https://cs.usm.my)*
+- *Software engineer - vision software, machine learning/deep learning*
+- *Postgraduate student at [Universiti Sains Malaysia](https://cs.usm.my)*
 
 ##
 #### 👀🤿 Lurker at:
