@@ -9,5 +9,6 @@
 #### 👀🤿 Lurker at:
 - *[Developer Kaki](https://www.facebook.com/groups/developerkaki/)*
 - *[Meta Developer Circle: Penang](https://www.facebook.com/groups/DevCPenang/)*
+- *[Machine Learning Community](https://www.linkedin.com/groups/961087)*
 ## 
 <a href="https://ko-fi.com/woolf42"><img src="https://user-images.githubusercontent.com/5046671/197377067-ce6016ae-6368-47b6-a4eb-903eb7b0af9c.png" width="200" alt=""/></a>
