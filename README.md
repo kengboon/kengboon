@@ -2,9 +2,9 @@
 ##
 <a href="https://www.linkedin.com/in/kengboon"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="24"/></a> <a href="https://www.kaggle.com/kengboon"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"  height="24"/></a> <a href="https://github.com/kengboon"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  height="24"/></a> <a href="https://ko-fi.com/woolf42"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"  height="24"/></a>
 
-- *Software engineer 💻 - vision software, machine learning & deep learning*
-- *Postgraduate student at [Universiti Sains Malaysia](https://cs.usm.my) 👨‍🎓*
-- *Avid reader 📚 - science, philosphy, history, social sciences*
+- Software engineer 💻 - *vision software, machine learning & deep learning*
+- Postgraduate student at [Universiti Sains Malaysia](https://cs.usm.my) 👨‍🎓
+- Avid reader 📚 - *science, philosphy, history, social sciences*
 
 ##
 #### Upcoming Research / Project Topics
