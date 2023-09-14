@@ -3,13 +3,13 @@
 ##
 #### You may find me at:
 <a href="https://www.linkedin.com/in/kengboon" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="24"/></a> <a href="https://github.com/kengboon"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="24"/></a> <a href="https://huggingface.co/kengboon" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-EA9F00?style=for-the-badge" height="24"/></a> <a href="https://orcid.org/0000-0001-8128-1948" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white" height="24"/></a> <a href="https://scholar.google.com/citations?user=hHucHjMAAAAJ" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" height="24"/></a> <a href="https://ko-fi.com/woolf42" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" height="24"/></a>
-
+##
 - Software engineer 💻 - *machine vision, artificial intelligence*
 - Graduate student at [Universiti Sains Malaysia](https://cs.usm.my) 👨‍🎓
 - Avid reader 📚 - *science, philosphy, history, social sciences, literature, etc.*
 
 ##
-#### R&D Areas
+#### Research & development areas:
 - *Software development*
 - *Computer vision*
 - *Artificial intelligence*
