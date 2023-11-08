@@ -12,7 +12,8 @@
 
 ##
 - Software engineer 💻 - *machine vision, artificial intelligence*
-- Graduate student at [Universiti Sains Malaysia](https://cs.usm.my) 👨‍🎓
+- Professional Technologist, [Malaysia Board of Technologists (MBOT)](https://www.mbot.org.my/about-us/mbot/) 👨‍💻
+- Proud graduate of [Universiti Sains Malaysia](https://cs.usm.my) 👨‍🎓
 - Avid reader 📚 - *science, philosphy, history, social sciences, literature, etc.*
 
 ##
