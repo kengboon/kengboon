@@ -11,17 +11,14 @@
 <a href="https://ko-fi.com/woolf42" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" height="24"/></a>
 
 ##
-- Software engineer 💻 - *computer vision, artificial intelligence*
-- Professional Technologist (P. Tech/Ts.), _[Malaysia Board of Technologists (MBOT)](https://www.mbot.org.my/about-us/mbot/)_ 👨‍💻
-- A proud graduate of [Universiti Sains Malaysia](https://cs.usm.my) 👨‍🎓
-- Avid reader 📚 - *science, philosphy, history, social sciences, literature, etc.*
+- Software/AI Engineer 💻
+- Professional Technologist, _[Malaysia Board of Technologists (MBOT)](https://www.mbot.org.my/about-us/mbot/)_ 👨‍💻
 
 ##
 #### Research & development areas:
 - *Software development*
 - *Computer vision*
 - *Reinforcement learning*
-- *LLM applications*
 
 ##
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-black.svg?logo=python&logoColor=3776ab"/></a>
